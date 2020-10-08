@@ -1,0 +1,3 @@
+Ceci est un essai avec Git pour la création de textes.
+
+J'ai apporté une correction...
